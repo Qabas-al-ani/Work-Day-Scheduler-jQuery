@@ -3,7 +3,7 @@
 This is my Work Day Scheduler jQuery that I created by using the HTML, Bootstrap, CSS and jQuery/JavaScript.
 I added a screenshot of the Work Day Scheduler jQuery, and also i included a litle video that shows the functionality of the Scheduler.
 
-[Click here to see my Code Quiz JavaScript](https://qabas-al-ani.github.io/Work-Day-Scheduler-jQuery/).
+[Click here to see my Work Day Scheduler jQuery](https://qabas-al-ani.github.io/Work-Day-Scheduler-jQuery/).
 
 ## Technologies:
 
@@ -18,12 +18,10 @@ I added a screenshot of the Work Day Scheduler jQuery, and also i included a lit
 
 ### A Screenshot of my deployed Work Day Scheduler jQuery:
 
-![ScreenShots](https://github.com/Qabas-al-ani/Code-Quiz-JavaScript/blob/main/images/JavaScript-Quiz3.png)  
- ![ScreenShots](https://github.com/Qabas-al-ani/Code-Quiz-JavaScript/blob/main/images/JavaScript-Quiz2.png)  
- ![ScreenShots](https://github.com/Qabas-al-ani/Code-Quiz-JavaScript/blob/main/images/JavaScript-Quiz1.png)  
- ![ScreenShots](https://github.com/Qabas-al-ani/Code-Quiz-JavaScript/blob/main/images/JavaScript-Quiz4.png)  
- ![ScreenShots](https://github.com/Qabas-al-ani/Code-Quiz-JavaScript/blob/main/images/JavaScript-Quiz5.png)
+![ScreenShots](https://github.com/Qabas-al-ani/Work-Day-Scheduler-jQuery/blob/main/Screenshots/Work-Day-Scheduler1.png)  
+ ![ScreenShots](https://github.com/Qabas-al-ani/Work-Day-Scheduler-jQuery/blob/main/Screenshots/Work-Day-Scheduler2.png)  
+
 
 ### A demo of my Work Day Scheduler jQuery:
 
-[full demo video](https://drive.google.com/file/d/1VA5BvTbbhIRIcnBX5KNpkRSZQ-yAnrT9/view?usp=sharing)
+[full demo video](https://drive.google.com/file/d/1mA9mM5YR320vccF__kWMksYAov1MN8oz/view?usp=sharing)
